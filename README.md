@@ -3,6 +3,19 @@
 - 🔭 I’m currently working on PuliChat!
 - 🌱 I’m currently learning ASP.NET/REACT.
 
+## My projects
+
+Web applications
+*PuliChat
+*VolleyballJS
+
+Desktop applications
+*Ships
+*Find a way
+*HackOLantern
+*Calculator
+*BBTan
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
