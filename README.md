@@ -6,15 +6,15 @@
 ## My projects
 
 Web applications
-*PuliChat
-*VolleyballJS
+* PuliChat
+* VolleyballJS
 
 Desktop applications
-*Ships
-*Find a way
-*HackOLantern
-*Calculator
-*BBTan
+* Ships
+* Find a way
+* HackOLantern
+* Calculator
+* BBTan
 
 <!--
 - 👯 I’m looking to collaborate on ...
