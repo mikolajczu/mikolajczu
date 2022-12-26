@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PuliChat!
-- 🌱 I’m currently learning ASP.NET/REACT.
+- 🌱 I’m currently learning Ruby on Rails
 
 ## My projects
 
