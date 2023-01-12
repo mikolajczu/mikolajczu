@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PuliChat
+- 🔭 I’m currently working on PuliChat/Cutely candle/Telemetry/Sentakki
 - 🌱 I’m currently learning Ruby on Rails
 
 ## My projects
