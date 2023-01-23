@@ -7,7 +7,6 @@
 
 Web applications
 * PuliChat | C#
-* Cutely candle | Ruby on Rails
 * VolleyballJS | JavaScript
 
 Desktop applications
