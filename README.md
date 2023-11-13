@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PuliChat/Cutely candle/Telemetry/Sentakki
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Ruby on Rails, BEM
 
 ## My projects
 
 Web applications
 * PuliChat | C#
-* VolleyballJS | JavaScript
-* Cutely Candle | Ruby on Rails
+* And more...
 
 Desktop applications
 * Ships | C#
 * Find a way | C#
 * HackOLantern | C#
-* Calculator | Java
-* BBTan | C#
+* And more...
 
 <!--
 - 👯 I’m looking to collaborate on ...
