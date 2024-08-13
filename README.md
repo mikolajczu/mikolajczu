@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on usos_auth gem
-- 🌱 I’m currently learning Ruby on Rails, BEM
-
+- 🌱 I’m currently learning Ruby on Rails
+-->
 ## My projects
 
 Web applications
