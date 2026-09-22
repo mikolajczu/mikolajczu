@@ -1,6 +1,6 @@
 # Hi, I'm Mikołaj 👋
  
-Full-stack engineer based in Poland. 3+ years building production software across Ruby on Rails, React, and TypeScript. I've worked in a software house and in SaaS - both shaped how I think about code: ship it, but ship it carefully.
+Full-stack engineer based in Poland. 4+ years building production software across Ruby on Rails, React, and TypeScript. I've worked in a software house and in SaaS - both shaped how I think about code: ship it, but ship it carefully.
  
 ---
  
